@@ -34,8 +34,7 @@ Sou estudante de **Engenharia Aeroespacial** na Universidade de Brasília (UnB),
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmonteirov&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mmonteirov&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150"/>
   <a href="(https://github.com/mmonteirov)">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmonteirov&theme=tokyonight" alt="GitHub Streak" />
 </a>
