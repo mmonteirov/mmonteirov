@@ -31,6 +31,8 @@ Sou estudante de **Engenharia Aeroespacial** na Universidade de Brasília (UnB),
 
 ---
 
+### 📊 GitHub Stats:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150"/>
