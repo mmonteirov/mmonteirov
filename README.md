@@ -1,6 +1,6 @@
 ### About me:
 
-Sou estudante de **Engenharia Aeroespacial** na Universidade de Brasília (UnB), apaixonado por estruturas aeroespaciais, sistemas embarcados e matemática aplicada. Gosto de unir os conceitos físicos e de cálculo com a tecnologia e a programação!
+Meu nome é Mateus, sou estudante de **Engenharia Aeroespacial** na Universidade de Brasília (UnB), apaixonado por estruturas aeroespaciais, sistemas embarcados e matemática aplicada. Gosto de unir os conceitos físicos e de cálculo com a tecnologia e a programação!
 
 ---
 
