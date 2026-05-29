@@ -7,14 +7,17 @@ Meu nome é Mateus, sou estudante de **Engenharia Aeroespacial** na Universidade
 ### 💻 Tech Stack:
 
 **CAD & Simulação Aeroespacial:**
-![Ansys Mechanical](https://img.shields.io/badge/Ansys-F2A900?style=for-the-badge&logo=ansys&logoColor=black)
-![Ansys Fluent](https://img.shields.io/badge/Ansys_Fluent-F2A900?style=for-the-badge&logo=ansys&logoColor=black)
-![Ansys SpaceClaim](https://img.shields.io/badge/Ansys-F2A900?style=for-the-badge&logo=ansys&logoColor=black)
-![CATIA](https://img.shields.io/badge/CATIA-1C3D72?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E32526?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-F36E21?style=for-the-badge&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white)
-![Siemens NX](https://img.shields.io/badge/Siemens_NX-0064A5?style=for-the-badge&logo=siemens&logoColor=white)
+![Ansys](https://img.shields.io/badge/ANSYS-F6A200?style=for-the-badge&logo=ansys&logoColor=black)
+![Ansys Fluent](https://img.shields.io/badge/ANSYS_FLUENT-F6A200?style=for-the-badge&logo=ansys&logoColor=black)
+![Ansys Mechanical](https://img.shields.io/badge/ANSYS_MECHANICAL-F6A200?style=for-the-badge&logo=ansys&logoColor=black)
+![Ansys SpaceClaim](https://img.shields.io/badge/ANSYS_SPACECLAIM-F6A200?style=for-the-badge&logo=ansys&logoColor=black)
+![CATIA](https://img.shields.io/badge/CATIA-1E3E6E?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-E32526?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/FUSION_360-F15922?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AUTOCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/AUTODESK_INVENTOR-F15922?style=for-the-badge&logo=autodesk&logoColor=white)
+![Siemens NX](https://img.shields.io/badge/SIEMENS_NX-0064A5?style=for-the-badge&logo=siemens&logoColor=white)
+![Solid Edge](https://img.shields.io/badge/SOLID_EDGE-0064A5?style=for-the-badge&logo=siemens&logoColor=white)
 
 **Programação & Matemática:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
