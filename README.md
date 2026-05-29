@@ -7,8 +7,9 @@ Meu nome é Mateus, sou estudante de **Engenharia Aeroespacial** na Universidade
 ### 💻 Tech Stack:
 
 **CAD & Simulação Aeroespacial:**
-![Ansys](https://img.shields.io/badge/Ansys-F2A900?style=for-the-badge&logo=ansys&logoColor=black)
+![Ansys Mechanical](https://img.shields.io/badge/Ansys-F2A900?style=for-the-badge&logo=ansys&logoColor=black)
 ![Ansys Fluent](https://img.shields.io/badge/Ansys_Fluent-F2A900?style=for-the-badge&logo=ansys&logoColor=black)
+![Ansys SpaceClaim](https://img.shields.io/badge/Ansys-F2A900?style=for-the-badge&logo=ansys&logoColor=black)
 ![CATIA](https://img.shields.io/badge/CATIA-1C3D72?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32526?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F36E21?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -24,11 +25,6 @@ Meu nome é Mateus, sou estudante de **Engenharia Aeroespacial** na Universidade
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
-**Idiomas:**
-![Português](https://img.shields.io/badge/Português-Nativo-4CAF50?style=for-the-badge)
-![Inglês](https://img.shields.io/badge/Inglês-C1-1976D2?style=for-the-badge)
-![Francês](https://img.shields.io/badge/Francês-A2-0055A4?style=for-the-badge)
 
 ---
 
